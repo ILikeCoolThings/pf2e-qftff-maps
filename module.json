@@ -1,0 +1,31 @@
+{
+  "id": "pf2e-qftff-maps",
+  "title": "PF2e QftFF Maps",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Mother of God",
+      "discord": "motherofgod",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/ILikeCoolThings/PF2e-QftFF-Maps",
+  "packs": [
+    {
+      "name": "pf2e-qftff-maps-book-2",
+      "label": "Pf2e QftFF Maps Book 2",
+      "path": "packs/pf2e-qftff-maps-book-2",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ]
+}

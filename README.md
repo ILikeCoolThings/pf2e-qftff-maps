@@ -4,11 +4,12 @@ This is a simple module that includes some scenes for book 2 of the PF2e AP Ques
 
 Will be adding more as my group progresses through.
 
-## Changelog
+# Changelog
 
-Initial creation
-    Maps included:
-    Lea of Honored Souls
-    Scorched Vale
-    The Ashen Tower (Ground and Top)
-    Wyrm Den
+## Initial creation
+   
+### Book 2 maps included:
+1. Lea of Honored Souls
+2. Scorched Vale
+3. The Ashen Tower (Ground and Top)
+4. Wyrm Den

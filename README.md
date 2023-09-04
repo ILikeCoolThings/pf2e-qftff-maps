@@ -6,8 +6,7 @@ Will be adding more as my group progresses through.
 
 # Changelog
 
-## Initial creation
-   
+## 1.0.0
 ### Book 2 maps included:
 1. Lea of Honored Souls
 2. Scorched Vale

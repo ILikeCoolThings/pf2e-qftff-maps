@@ -1,7 +1,7 @@
 {
   "id": "pf2e-qftff-maps",
   "title": "PF2e QftFF Maps",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -14,8 +14,8 @@
     }
   ],
   "url": "https://github.com/ILikeCoolThings/pf2e-qftff-maps.git",
-  "manifest": "https://github.com/ILikeCoolThings/pf2e-qftff-maps/releases/download/0.1.2/module.json",
-  "download": "https://github.com/ILikeCoolThings/pf2e-qftff-maps/releases/download/0.1.2/pf2e-qftff-maps-release.zip",
+  "manifest": "https://github.com/ILikeCoolThings/pf2e-qftff-maps/releases/download/1.0.0/module.json",
+  "download": "https://github.com/ILikeCoolThings/pf2e-qftff-maps/releases/download/1.0.0/pf2e-qftff-maps-release.zip",
   "packs": [
     {
       "name": "pf2e-qftff-maps-book-2",

@@ -9,6 +9,8 @@ Will be adding more as my group progresses through.
 ## 1.0.0
 ### Book 2 maps included:
 1. Lea of Honored Souls
-2. Scorched Vale
+2. Wyrm Den
+3. Scorched Vale
 3. The Ashen Tower (Ground and Top)
-4. Wyrm Den
+4. Lyuba
+5. Glacial Palace

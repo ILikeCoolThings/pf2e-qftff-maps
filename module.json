@@ -23,7 +23,7 @@
       "path": "packs/pf2e-qftff-maps-book-2",
       "type": "Scene",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "NONE",
         "ASSISTANT": "OWNER"
       },
       "system": "pf2e",

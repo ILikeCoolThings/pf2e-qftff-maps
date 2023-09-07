@@ -15,5 +15,5 @@ Will be adding more as my group progresses through.
 2. Wyrm Den
 3. Scorched Vale
 4. The Ashen Tower
-5. Lyuba
+5. Lyuba (Zoomed in encounters)
 6. Glacial Palace

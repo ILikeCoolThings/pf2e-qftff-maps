@@ -1,7 +1,7 @@
 {
   "id": "pf2e-qftff-maps",
   "title": "PF2e QftFF Maps",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -14,13 +14,25 @@
     }
   ],
   "url": "https://github.com/ILikeCoolThings/pf2e-qftff-maps.git",
-  "manifest": "https://github.com/ILikeCoolThings/pf2e-qftff-maps/releases/download/1.1.0/module.json",
-  "download": "https://github.com/ILikeCoolThings/pf2e-qftff-maps/releases/download/1.1.0/pf2e-qftff-maps-release.zip",
+  "manifest": "https://github.com/ILikeCoolThings/pf2e-qftff-maps/releases/download/1.2.0/module.json",
+  "download": "https://github.com/ILikeCoolThings/pf2e-qftff-maps/releases/download/1.2.0/pf2e-qftff-maps-release.zip",
   "packs": [
     {
       "name": "pf2e-qftff-maps-book-2",
       "label": "Pf2e QftFF Maps Book 2",
       "path": "packs/pf2e-qftff-maps-book-2",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "pf2e-qftff-maps-book-3",
+      "label": "Pf2e QftFF Maps Book 3",
+      "path": "packs/pf2e-qftff-maps-book-3",
       "type": "Scene",
       "ownership": {
         "PLAYER": "NONE",

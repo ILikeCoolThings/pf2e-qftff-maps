@@ -8,4 +8,7 @@ Will be adding more as my group progresses through.
 
 ## Current status:
 - Book 2: Complete
-- Book 3: Chapter 1 Complete
+- Book 3:
+  - Chapter 1: Complete
+  - Chapter 2: Not started
+  - Chapter 3: Not started

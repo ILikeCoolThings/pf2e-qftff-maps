@@ -6,14 +6,6 @@ The module does not contain any of the material or content from the book outside
 
 Will be adding more as my group progresses through.
 
-# Changelog
-
-## 1.0.0
-### Book 2 maps included:
-
-1. Lea of Honored Souls
-2. Wyrm Den
-3. Scorched Vale
-4. The Ashen Tower
-5. Lyuba (Zoomed in encounters)
-6. Glacial Palace
+## Current status:
+- Book 2: Complete
+- Book 3: Chapter 1 Complete

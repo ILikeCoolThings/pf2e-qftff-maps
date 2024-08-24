@@ -4,11 +4,6 @@ This is a simple module that includes some scenes for the PF2e adventure path: "
 
 The module does not contain any of the material or content from the book outside of the map remakes. 
 
-Will be adding more as my group progresses through.
-
 ## Current status:
 - Book 2: Complete
-- Book 3:
-  - Chapter 1: Complete
-  - Chapter 2: Not started
-  - Chapter 3: Not started
+- Book 3: Complete
